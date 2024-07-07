@@ -1,0 +1,2 @@
+- https://www.baeldung.com/slf4j-with-log4j2-logback
+- https://stackoverflow.com/questions/50216893/log4j2-not-outputting-debug-information
